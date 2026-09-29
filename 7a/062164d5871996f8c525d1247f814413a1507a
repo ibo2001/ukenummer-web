@@ -1,0 +1,49 @@
+index.html
+  s_63a84bbebef41c::t_0950294b4a2b06 1-302
+  s_63a84bbebef41c::t_6e1dcad6b9a027 303-313
+support/index.html
+  s_63a84bbebef41c::t_757d68031b3854 1-123
+404.html
+  s_63a84bbebef41c::t_2ea3edbaebf883 1-26
+styles.css
+  s_63a84bbebef41c::t_536acdfcab322e 1-292
+en/index.html
+  s_63a84bbebef41c::t_29b39a30b3b1d2 1-289
+  s_63a84bbebef41c::t_4dac59b30af58e 290-300
+privacy/index.html
+  s_63a84bbebef41c::t_f793c95d15f2e4 1-107
+main.js
+  s_63a84bbebef41c::t_3e1919b2b10399 1-174
+.gitignore
+  s_63a84bbebef41c::t_cf70975a776b07 1-2
+.htaccess
+  s_63a84bbebef41c::t_69c54a7b67a558 1-9
+README.md
+  s_63a84bbebef41c::t_aa0d6d1e1de87f 1-71
+check.sh
+  s_63a84bbebef41c::t_3ceb4a3300342f 1-57
+robots.txt
+  s_63a84bbebef41c::t_c74e83f765a906 1-4
+scripts/og.html
+  s_63a84bbebef41c::t_cec635a4573682 1-34
+sitemap.xml
+  s_63a84bbebef41c::t_3b5557ea86486c 1-15
+deploy.sh
+  s_63a84bbebef41c::t_9af6adcb89c9c6 1-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7a062164d5871996f8c525d1247f814413a1507a",
+  "prompts": {},
+  "sessions": {
+    "s_63a84bbebef41c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6faca189-04bb-46b3-b726-0df7429f13af",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ibrahim Qraiqe <ibo2001@gmail.com>"
+    }
+  }
+}
